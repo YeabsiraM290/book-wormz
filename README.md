@@ -16,7 +16,7 @@
 - venv\Scripts\activate
 
 #### Linux
-- .\venv\Scripts\activate
+- .\venv\bin\activate
 
 ### - Configure flask environment
 
